@@ -17,7 +17,7 @@ Analyze the layoff dataset using SQL to understand:
 ## 📁 Dataset
 
 - **Name**: `layoffs.csv`
-- **Source**: [layoffs.csv]()
+- **Source**: [layoffs.csv](https://drive.google.com/file/d/145S2GXv-3fv9boVABFNgLUMfh4y-3xXJ/view?usp=sharing)
 - **Columns Include**:
   - `company`, `industry`, `total_laid_off`, `percentage_laid_off`
   - `location`, `country`, `date`, `stage`, `funds_raised`
